@@ -1,0 +1,13 @@
+{
+    "name": "nativewebsite",
+    "version": "0.1.0",
+    "private": false,
+    "main": "src/main.js",
+    "scripts": {
+        "electron-start": "electron ."
+    },
+    "dependencies": {
+        "@jeffriggle/ipc-bridge-server": "^1.0.2",
+        "electron": "^4.1.4"
+    }
+}
