@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {client} from '@jeffriggle/ipc-bridge-client';
 
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
