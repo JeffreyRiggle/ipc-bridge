@@ -8,6 +8,6 @@
     },
     "dependencies": {
         "@jeffriggle/ipc-bridge-server": "^2.0.0",
-        "electron": "^18.0.4"
+        "electron": "^18.3.7"
     }
 }
